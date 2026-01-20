@@ -1,1 +1,16 @@
 current branch prototype-arduino
+
+
+Workflow Goals:
+1) Configure an addition of both source code of Python middle man 
+between arduino & pyserial script 
+2) Configure an addition of the pyserial script for future user use
+
+IoT Goals: 
+1) Create templates for JSON formatters, POST requests from within main page to be sent 
+to an ngrok tunnel to local host computer
+2) Create an encrypted ngrok target url to localhost for security reasons
+
+
+Hardware Component Goals:
+1) Convert Elegoo Uno R3 to raw AVR C Setup

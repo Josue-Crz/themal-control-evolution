@@ -2,9 +2,9 @@
 ## IoT Thermal Control Evolution Project Setup
 
 ### Phase 1: Arduino Prototype (Arduino Uno R3)
-- [ ] Create Arduino sketch for temperature sensor reading
-- [ ] Implement PWM fan control in Arduino
-- [ ] Add serial communication for monitoring
+- [x] Create Arduino sketch for temperature sensor reading
+- [x] Implement PWM fan control in Arduino
+- [x] Add serial communication for monitoring
 - [ ] Create circuit diagram/documentation
 
 ### Phase 2: AVR C Conversion
@@ -20,13 +20,13 @@
 - [ ] Setup UART communication for STM32
 
 ### Phase 4: Web Application
-- [ ] Create web server backend (Node.js/Python)
-- [ ] Implement real-time data communication (WebSocket)
+- [x] Create web server backend (Node.js/Python)
+- [x] Implement real-time data communication (WebSocket)
 - [ ] Build web UI for monitoring temperature
 - [ ] Add fan control interface
 
 ### Documentation
-- [ ] Update README with project description
+- [x] Update README with project description
 - [ ] Add build/setup instructions
 - [ ] Document hardware requirements
 

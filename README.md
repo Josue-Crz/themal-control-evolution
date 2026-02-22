@@ -40,11 +40,6 @@
 
 <details>
 
-<summary>Original prompt</summary>
-
-> Well my project is gonna be an IoT app that controls a fan through a web app, with real time monitoring of the temperature. I plan on making my prototype with Arduino libraries, converting it to raw avr C then finally convert the project from an arduino uno r3 to another micro controller: stm32f401re
-> 
-> 
 
 
 </details>

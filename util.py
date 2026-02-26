@@ -1,0 +1,1 @@
+# Helper functions (Error handling, logging for API requests)

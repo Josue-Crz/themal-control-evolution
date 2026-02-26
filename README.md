@@ -29,3 +29,11 @@
 - [x] Update README with project description
 - [ ] Add build/setup instructions
 - [ ] Document hardware requirements
+<<<<<<< HEAD
+
+<!-- START COPILOT CODING AGENT SUFFIX -->
+
+
+
+=======
+>>>>>>> main
